@@ -1,5 +1,7 @@
 # Flask API Server
 
+## Version 0.0.1
+
 ## To initially setup the environment
 ```
 > python3.8 -m venv venv
