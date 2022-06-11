@@ -1,6 +1,6 @@
 # Flask API Server
 
-## Version 0.0.1
+## Version 0.0.1-beta01
 
 ## To initially setup the environment
 ```
