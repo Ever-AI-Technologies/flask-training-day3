@@ -24,7 +24,3 @@
 > flask run
 > curl localhost:5000/health
 ```
-
-By Ammar
-ammar@ever-technologies.com
-armmarov@gmail.com
